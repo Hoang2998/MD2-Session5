@@ -1,0 +1,30 @@
+.form{
+    width: 230px;
+    /* height: 300px; */
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(236, 219, 197);
+    box-shadow: 2px 2px 2px 2px black;
+}
+li{
+    display: flex;
+    align-items: center;
+}
+.btn{
+    color: brown;
+    border: none;
+    background-color: rgb(236, 219, 197);
+    padding: 0;
+    margin: 0;
+
+}
+h1{
+    color: brown;
+}
+p{
+    display: inline-block;
+    width: 80px;
+    padding: 0;
+    margin: 5px;
+}
